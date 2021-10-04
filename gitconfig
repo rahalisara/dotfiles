@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rahalisara@hotmail.fr
+	name = Sara Rahali
